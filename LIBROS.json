@@ -1,0 +1,198 @@
+[
+    {
+      "title": "El Señor de los Anillos",
+      "pages": 1200,
+      "genre": "Fantasía",
+      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566425108i/33.jpg",
+      "synopsis": "Una aventura épica en un mundo de fantasía llamado la Tierra Media.",
+      "year": 1954,
+      "ISBN": "978-0618640157",
+      "author": {
+        "name": "J.R.R. Tolkien",
+        "otherBooks": ["El Hobbit", "El Silmarillion"]
+      }
+    },
+    {
+      "title": "Cien Años de Soledad",
+      "pages": 417,
+      "genre": "Realismo mágico",
+      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327881361i/320.jpg",
+      "synopsis": "La historia de la familia Buendía en el pueblo ficticio de Macondo.",
+      "year": 1967,
+      "ISBN": "978-0307474728",
+      "author": {
+        "name": "Gabriel García Márquez",
+        "otherBooks": ["El Amor en los Tiempos del Cólera", "Crónica de una Muerte Anunciada"]
+      }
+    },
+    {
+      "title": "1984",
+      "pages": 328,
+      "genre": "Distopía",
+      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327144697i/5470.jpg",
+      "synopsis": "Un futuro distópico bajo la vigilancia constante del Gran Hermano.",
+      "year": 1949,
+      "ISBN": "978-0451524935",
+      "author": {
+        "name": "George Orwell",
+        "otherBooks": ["Rebelión en la Granja", "Homenaje a Cataluña"]
+      }
+    },
+    {
+      "title": "Orgullo y Prejuicio",
+      "pages": 279,
+      "genre": "Romance",
+      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320399351i/1885.jpg",
+      "synopsis": "Un retrato de las costumbres sociales y el romance en la Inglaterra del siglo XIX.",
+      "year": 1813,
+      "ISBN": "978-0141439518",
+      "author": {
+        "name": "Jane Austen",
+        "otherBooks": ["Emma", "Sensatez y Sentimientos"]
+      }
+    },
+    {
+      "title": "Matar a un Ruiseñor",
+      "pages": 336,
+      "genre": "Drama",
+      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553383690i/2657.jpg",
+      "synopsis": "Una historia sobre la injusticia racial y la pérdida de la inocencia en el sur de Estados Unidos.",
+      "year": 1960,
+      "ISBN": "978-0061120084",
+      "author": {
+        "name": "Harper Lee",
+        "otherBooks": ["Ve y Pon un Centinela"]
+      }
+    },
+    {
+      "title": "Don Quijote de la Mancha",
+      "pages": 1056,
+      "genre": "Aventura",
+      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1402171900i/3836.jpg",
+      "synopsis": "Las aventuras de un caballero idealista y su fiel escudero en la España del Siglo de Oro.",
+      "year": 1605,
+      "ISBN": "978-8420412148",
+      "author": {
+        "name": "Miguel de Cervantes",
+        "otherBooks": ["La Galatea", "Los Trabajos de Persiles y Sigismunda"]
+      }
+    },
+    {
+      "title": "Crónica de una Muerte Anunciada",
+      "pages": 122,
+      "genre": "Misterio",
+      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1423793630i/23878.jpg",
+      "synopsis": "El asesinato de Santiago Nasar narrado desde múltiples perspectivas.",
+      "year": 1981,
+      "ISBN": "978-0307388933",
+      "author": {
+        "name": "Gabriel García Márquez",
+        "otherBooks": ["Cien Años de Soledad", "El Amor en los Tiempos del Cólera"]
+      }
+    },
+    {
+      "title": "El Principito",
+      "pages": 96,
+      "genre": "Fábula",
+      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1367545443i/157993.jpg",
+      "synopsis": "La historia de un pequeño príncipe y sus enseñanzas sobre la vida y el amor.",
+      "year": 1943,
+      "ISBN": "978-0156012195",
+      "author": {
+        "name": "Antoine de Saint-Exupéry",
+        "otherBooks": ["Vuelo Nocturno", "Tierra de Hombres"]
+      }
+    },
+    {
+      "title": "Los Juegos del Hambre",
+      "pages": 374,
+      "genre": "Ciencia Ficción",
+      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586722975i/2767052.jpg",
+      "synopsis": "Un juego mortal en un mundo distópico donde solo puede haber un ganador.",
+      "year": 2008,
+      "ISBN": "978-0439023528",
+      "author": {
+        "name": "Suzanne Collins",
+        "otherBooks": ["En Llamas", "Sinsajo"]
+      }
+    },
+    {
+      "title": "Harry Potter y la Piedra Filosofal",
+      "pages": 223,
+      "genre": "Fantasía",
+      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1474154022i/3.jpg",
+      "synopsis": "El inicio de las aventuras de un joven mago en Hogwarts.",
+      "year": 1997,
+      "ISBN": "978-0747532699",
+      "author": {
+        "name": "J.K. Rowling",
+        "otherBooks": ["Harry Potter y la Cámara Secreta", "Harry Potter y el Prisionero de Azkaban"]
+      }
+    },
+    {
+      "title": "La Metamorfosis",
+      "pages": 201,
+      "genre": "Ficción",
+      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1625679221i/485894.jpg",
+      "synopsis": "Un hombre despierta convertido en un insecto gigante.",
+      "year": 1915,
+      "ISBN": "978-0486290300",
+      "author": {
+        "name": "Franz Kafka",
+        "otherBooks": ["El Proceso", "El Castillo"]
+      }
+    },
+    {
+      "title": "Drácula",
+      "pages": 418,
+      "genre": "Terror",
+      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387151694i/17245.jpg",
+      "synopsis": "La historia del vampiro más famoso de la literatura.",
+      "year": 1897,
+      "ISBN": "978-0141439846",
+      "author": {
+        "name": "Bram Stoker",
+        "otherBooks": ["La Guarida del Gusano Blanco", "El Invitado de Drácula"]
+      }
+    },
+    {
+      "title": "El Alquimista",
+      "pages": 197,
+      "genre": "Filosofía",
+      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1483412266i/865.jpg",
+      "synopsis": "Un pastor en busca de su leyenda personal.",
+      "year": 1988,
+      "ISBN": "978-0061122415",
+      "author": {
+        "name": "Paulo Coelho",
+        "otherBooks": ["Brida", "El Manual del Guerrero de la Luz"]
+      }
+    },
+    {
+      "title": "Frankenstein",
+      "pages": 280,
+      "genre": "Terror",
+      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1381512375i/35031085.jpg",
+      "synopsis": "Un científico crea vida y enfrenta las consecuencias.",
+      "year": 1818,
+      "ISBN": "978-0141439471",
+      "author": {
+        "name": "Mary Shelley",
+        "otherBooks": ["El Último Hombre", "Mathilda"]
+      }
+    },
+    {
+      "title": "El Código Da Vinci",
+      "pages": 489,
+      "genre": "Thriller",
+      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1579621266i/968.jpg",
+      "synopsis": "Un misterio que combina historia y religión.",
+      "year": 2003,
+      "ISBN": "978-0307474278",
+      "author": {
+        "name": "Dan Brown",
+        "otherBooks": ["Ángeles y Demonios", "Inferno"]
+      }
+    }
+  ]
+  
