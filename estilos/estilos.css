@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    font-family: "Roboto", serif;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+main{
+    width: 100%;
+}
+body main{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+body main .panel-lateral{
+    width: 15%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+body main .panel-lateral h3{
+    margin-top: 40px;
+}
+body main .panel-lateral .listas{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* gap: 40px; */
+    width: 100%;
+
+}
+body main .panel-lateral .lista{
+    display: flex;
+    flex-direction: column; 
+    margin-top: 20px;
+    /* width: 100%; */
+    /* align-items: center; */
+}
+body main .panel-lateral .listas .lista ul{
+    list-style-type: none;
+    display: flex;
+    justify-self: start;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+    padding-bottom: 50px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.397);
+
+}
+
+body main .panel-lateral .listas .lista ul li{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    /* justify-content: ce; */
+    margin-top: 30px;
+    align-items: center;
+}
+body main .panel-lateral .listas .lista ul li .icono{
+    background-color: #ececec;
+    border-radius: 40% ;
+    padding: 10px;
+}
+body main .panel-lateral .listas .lista ul li .icono:hover{
+    background-color: #fa7453;
+}
+body main .panel-lateral .listas .lista ul li span{
+    color: #88898f;
+}
+body main .panel-lateral .listas .lista ul li span:hover{
+    color: black;
+}
+body main .panel-lateral .listas .lista ul li .fa-solid{
+    font-size: 20px;
+}
+body main .panel-lateral .listas .lista ul li span{
+    font-size: 20px;
+}
+body main .panel-central {
+    width: 85%;
+    padding-top: 30px;
+    background-color: #ebe7d7;
+    display: flex;
+    flex-direction: column;
+        align-items: center;
+}
+body main .panel-central h1{
+    margin-left: 150px;
+    font-size: 45px;
+    align-self: start;
+
+}
+body main .panel-central .buscador{
+    margin-left: 150px;
+    background-color: white;
+    height: 50px;
+    display: flex;
+    align-self: start;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 40%;
+    border-radius: 15px;
+}
+body main .panel-central .buscador select{
+ width: 23%;   
+ border: none;
+ outline: 0;
+ color: #65666d;
+
+ height: 60%;
+ /* margin-right: 20px; */
+ border-right: 1px solid rgba(128, 128, 128, 0.623);
+}
+body main .panel-central .buscador .fa-solid{
+    padding: 10px;
+}
+body main .panel-central .buscador input{
+    border: none;
+    outline: 0;
+    width: 50%;
+}
+body main .panel-central .buscador button{
+    width: 15%;
+    height: 70%;
+    background-color: #1d3e3a;
+    border-radius: 10px;
+    color: white;
+    font-size: 15px;
+}
+body main .panel-central .libros-recomendados {
+    width: 80%;
+    margin-top: 100px;
+}
+body main .panel-central .libros-recomendados .titulo-boton{
+    width: 100%;
+    justify-self: end;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+     
+}
+body main .panel-central .libros-recomendados .titulo-boton p {
+    font-size: 30px;    
+    color: #7a7971;
+    padding: 0;
+    margin: 0;
+}
+body main .panel-central .libros-recomendados .titulo-boton button{
+    width: 8%;
+    background-color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
