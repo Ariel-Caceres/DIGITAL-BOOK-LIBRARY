@@ -1,0 +1,197 @@
+[
+  {
+    "title": "El Señor de los Anillos",
+    "pages": 1200,
+    "genre": "Fantasía",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566425108i/33.jpg",
+    "synopsis": "Una aventura épica en un mundo de fantasía llamado la Tierra Media.",
+    "year": 1954,
+    "ISBN": "978-0618640157",
+    "author": {
+      "name": "J.R.R. Tolkien",
+      "otherBooks": ["El Hobbit", "El Silmarillion"]
+    }
+  },
+  {
+    "title": "Harry Potter y la Piedra Filosofal",
+    "pages": 223,
+    "genre": "Fantasía",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1474154022i/3.jpg",
+    "synopsis": "El inicio de las aventuras de un joven mago en Hogwarts.",
+    "year": 1997,
+    "ISBN": "978-0747532699",
+    "author": {
+      "name": "J.K. Rowling",
+      "otherBooks": ["Harry Potter y la Cámara Secreta", "Harry Potter y el Prisionero de Azkaban"]
+    }
+  },
+  {
+    "title": "El Hobbit",
+    "pages": 310,
+    "genre": "Fantasía",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546071216i/5907.jpg",
+    "synopsis": "La historia de Bilbo Bolsón y su inesperada aventura para recuperar un tesoro custodiado por un dragón.",
+    "year": 1937,
+    "ISBN": "978-0618968633",
+    "author": {
+      "name": "J.R.R. Tolkien",
+      "otherBooks": ["El Señor de los Anillos", "El Silmarillion"]
+    }
+  },
+  {
+    "title": "Crónicas de Narnia: El León, la Bruja y el Ropero",
+    "pages": 206,
+    "genre": "Fantasía",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1505346025i/100915.jpg",
+    "synopsis": "Cuatro niños descubren un mundo mágico a través de un armario encantado.",
+    "year": 1950,
+    "ISBN": "978-0064404990",
+    "author": {
+      "name": "C.S. Lewis",
+      "otherBooks": ["El Príncipe Caspian", "La Última Batalla"]
+    }
+  },
+  {
+    "title": "Juego de Tronos",
+    "pages": 835,
+    "genre": "Fantasía",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436732693i/13496.jpg",
+    "synopsis": "El inicio de una compleja lucha política y familiar por el trono de los Siete Reinos.",
+    "year": 1996,
+    "ISBN": "978-0553103540",
+    "author": {
+      "name": "George R.R. Martin",
+      "otherBooks": ["Choque de Reyes", "Tormenta de Espadas"]
+    }
+  },
+  {
+    "title": "1984",
+    "pages": 328,
+    "genre": "Ficción",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327144697i/5470.jpg",
+    "synopsis": "Un futuro distópico bajo la vigilancia constante del Gran Hermano.",
+    "year": 1949,
+    "ISBN": "978-0451524935",
+    "author": {
+      "name": "George Orwell",
+      "otherBooks": ["Rebelión en la Granja", "Homenaje a Cataluña"]
+    }
+  },
+  {
+    "title": "Cien Años de Soledad",
+    "pages": 417,
+    "genre": "Ficción",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327881361i/320.jpg",
+    "synopsis": "La historia de la familia Buendía en el pueblo ficticio de Macondo.",
+    "year": 1967,
+    "ISBN": "978-0307474728",
+    "author": {
+      "name": "Gabriel García Márquez",
+      "otherBooks": ["El Amor en los Tiempos del Cólera", "Crónica de una Muerte Anunciada"]
+    }
+  },
+  {
+    "title": "La Metamorfosis",
+    "pages": 201,
+    "genre": "Ficción",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1625679221i/485894.jpg",
+    "synopsis": "Un hombre despierta convertido en un insecto gigante.",
+    "year": 1915,
+    "ISBN": "978-0486290300",
+    "author": {
+      "name": "Franz Kafka",
+      "otherBooks": ["El Proceso", "El Castillo"]
+    }
+  },
+  {
+    "title": "Don Quijote de la Mancha",
+    "pages": 1056,
+    "genre": "Ficción",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1402171900i/3836.jpg",
+    "synopsis": "Las aventuras de un caballero idealista y su fiel escudero en la España del Siglo de Oro.",
+    "year": 1605,
+    "ISBN": "978-8420412148",
+    "author": {
+      "name": "Miguel de Cervantes",
+      "otherBooks": ["La Galatea", "Los Trabajos de Persiles y Sigismunda"]
+    }
+  },
+  {
+    "title": "El Principito",
+    "pages": 96,
+    "genre": "Ficción",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1367545443i/157993.jpg",
+    "synopsis": "La historia de un pequeño príncipe y sus enseñanzas sobre la vida y el amor.",
+    "year": 1943,
+    "ISBN": "978-0156012195",
+    "author": {
+      "name": "Antoine de Saint-Exupéry",
+      "otherBooks": ["Vuelo Nocturno", "Tierra de Hombres"]
+    }
+  },
+  {
+    "title": "Orgullo y Prejuicio",
+    "pages": 279,
+    "genre": "Romance",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320399351i/1885.jpg",
+    "synopsis": "Un retrato de las costumbres sociales y el romance en la Inglaterra del siglo XIX.",
+    "year": 1813,
+    "ISBN": "978-0141439518",
+    "author": {
+      "name": "Jane Austen",
+      "otherBooks": ["Emma", "Sensatez y Sentimientos"]
+    }
+  },
+  {
+    "title": "Romeo y Julieta",
+    "pages": 128,
+    "genre": "Romance",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615793671i/18135.jpg",
+    "synopsis": "La trágica historia de amor entre dos jóvenes de familias enemistadas.",
+    "year": 1597,
+    "ISBN": "978-0143128571",
+    "author": {
+      "name": "William Shakespeare",
+      "otherBooks": ["Hamlet", "Macbeth"]
+    }
+  },
+  {
+    "title": "Bajo la Misma Estrella",
+    "pages": 313,
+    "genre": "Romance",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1339602131i/11870085.jpg",
+    "synopsis": "Una emotiva historia de amor entre dos adolescentes que luchan contra el cáncer.",
+    "year": 2012,
+    "ISBN": "978-0525478812",
+    "author": {
+      "name": "John Green",
+      "otherBooks": ["Ciudades de Papel", "Buscando a Alaska"]
+    }
+  },
+  {
+    "title": "Cumbres Borrascosas",
+    "pages": 416,
+    "genre": "Romance",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327867269i/6185.jpg",
+    "synopsis": "Una intensa historia de amor y venganza en los páramos de Inglaterra.",
+    "year": 1847,
+    "ISBN": "978-0141439556",
+    "author": {
+      "name": "Emily Brontë",
+      "otherBooks": []
+    }
+  },
+  {
+    "title": "Drácula",
+    "pages": 418,
+    "genre": "Terror",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387151694i/17245.jpg",
+    "synopsis": "La historia del vampiro más famoso de la literatura.",
+    "year": 1897,
+    "ISBN": "978-0141439846",
+    "author": {
+      "name": "Bram Stoker",
+      "otherBooks": ["La Guarida del Gusano Blanco", "El Invitado de Drácula"]
+    }
+  }
+]
