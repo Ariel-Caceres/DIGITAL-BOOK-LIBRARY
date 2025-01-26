@@ -4,7 +4,7 @@ let cajDePortadas = document.querySelector("body main .libros-recomendados .caja
 
 
 let link = async () =>{
-  let api = await fetch("https://raw.githubusercontent.com/midudev/pruebas-tecnicas/refs/heads/main/pruebas/01-reading-list/books.json")
+  let api = await fetch("https://raw.githubusercontent.com/Ariel-Caceres/DIGITAL-BOOK-LIBRARY/refs/heads/master/libros.json")
   let libros = await api.json();
   console.log(libros);
   
